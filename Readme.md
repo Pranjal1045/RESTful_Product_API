@@ -8,7 +8,7 @@ A simple RESTful API for managing products using Node.js, Express, and MongoDB.
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/product-crud-api.git
+git clone https://github.com/Pranjal1045/product-crud-api.git
 cd product-crud-api
 
 2. Install Dependencies
