@@ -1,0 +1,26 @@
+{
+  "name": "assignment_week6_by_pranjal",
+  "version": "1.0.0",
+  "description": "RESTful API using Node.js and Express that supports CRUD operations on a product resource",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Node.js",
+    "Express",
+    "mongoose"
+  ],
+  "author": "Pranjal Porwal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
